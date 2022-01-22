@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    background-color: pink;
+}
+#headingtwo{
+    color: yellow;
+    background-color: pink;
+}
+#headingthree{
+    color: blue;
+    background-color: blueviolet;
+}
+.bggreen{
+    background-color: powderblue;
+}
+#frombg{
+    color: red;
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+    height: 20%;
+    margin: auto;
+}
